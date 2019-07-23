@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\verifylink_22_07_2019_10_52_00.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\verifylink_22_07_2019_10_52_00.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\click menu link_22_07_2019_10_52_01.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\click menu link_22_07_2019_10_52_01.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\tooltip link _22_07_2019_10_52_03.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\tooltip link _22_07_2019_10_52_03.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121745" started-at="2019-07-22T17:20:05Z" finished-at="2019-07-22T17:22:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121745" started-at="2019-07-22T17:20:05Z" finished-at="2019-07-22T17:22:07Z">
+      <class name="com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="setUp" is-config="true" duration-ms="113015" started-at="2019-07-22T17:20:06Z" finished-at="2019-07-22T17:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="beforeMethod" is-config="true" duration-ms="20" started-at="2019-07-22T17:21:59Z" finished-at="2019-07-22T17:21:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases.HomePageTC001_verifyNavigationlinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="HomePageTC001_verifyNavigationlinks()[pri:1, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="HomePageTC001_verifyNavigationlinks" duration-ms="2017" started-at="2019-07-22T17:21:59Z" description="-	This TC displays the navigation links should be visible on desktop devices and display 9 items: Corporate, Business, International etc " finished-at="2019-07-22T17:22:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\verifylink_22_07_2019_10_52_00.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\verifylink_22_07_2019_10_52_00.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageTC001_verifyNavigationlinks -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-22T17:22:01Z" finished-at="2019-07-22T17:22:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageTC001_verifyNavigationlinks status=SUCCESS method=HomePageTestCases.HomePageTC001_verifyNavigationlinks()[pri:1, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef] output=<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\verifylink_22_07_2019_10_52_00.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\verifylink_22_07_2019_10_52_00.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="HomePageTC002_ClickNavlink()[pri:2, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="HomePageTC002_ClickNavlink" duration-ms="1678" started-at="2019-07-22T17:22:01Z" description="this test case click on navigationl link of user choice" finished-at="2019-07-22T17:22:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\click menu link_22_07_2019_10_52_01.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\click menu link_22_07_2019_10_52_01.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageTC002_ClickNavlink -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-07-22T17:22:01Z" finished-at="2019-07-22T17:22:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases.HomePageTC002_ClickNavlink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-22T17:22:02Z" finished-at="2019-07-22T17:22:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageTC002_ClickNavlink status=SUCCESS method=HomePageTestCases.HomePageTC002_ClickNavlink()[pri:2, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef] output=<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\click menu link_22_07_2019_10_52_01.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\click menu link_22_07_2019_10_52_01.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-07-22T17:22:02Z" finished-at="2019-07-22T17:22:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases.HomePageTC003_ClicTooltiplink()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="HomePageTC003_ClicTooltiplink()[pri:3, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="HomePageTC003_ClicTooltiplink" duration-ms="3766" started-at="2019-07-22T17:22:02Z" description="This test case click tooltip link of user choice" finished-at="2019-07-22T17:22:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\tooltip link _22_07_2019_10_52_03.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\tooltip link _22_07_2019_10_52_03.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageTC003_ClicTooltiplink -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="endTest" is-config="true" duration-ms="1104" started-at="2019-07-22T17:22:06Z" finished-at="2019-07-22T17:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-22T17:22:06Z" finished-at="2019-07-22T17:22:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageTC003_ClicTooltiplink status=SUCCESS method=HomePageTestCases.HomePageTC003_ClicTooltiplink()[pri:3, instance:com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases@44c8afef] output=<a href='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\tooltip link _22_07_2019_10_52_03.png'> <img src='D:\Projects\src\main\java\com\test\automation\uiAutomation\screenshot\tooltip link _22_07_2019_10_52_03.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.test.uiAutomation.MasherqDigital.HomePage.HomePageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
